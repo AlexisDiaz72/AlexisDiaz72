@@ -5,17 +5,24 @@
   </picture>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<h3 align="left">Perfil</h3>
+<p align="justify">
+  Desarrollador de software con conocimientos en Python, Java, JavaScript, React, PHP y SQL, y experiencia en servicios en la nube de AWS. Integro herramientas de inteligencia artificial generativa en el desarrollo para optimizar procesos y acelerar la entrega de soluciones. Cuento además con habilidades de modelado y renderizado 3D en Archicad y Twinmotion, lo que me da un perfil versátil entre tecnología y diseño. Trabajo con control de versiones en Git y GitHub, y me caracterizo por el aprendizaje autodidacta y la adaptación rápida a nuevas herramientas.
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <h3 align="left">Contacto</h3>
-<a href="https://www.linkedin.com/in/alexis-flores-d%C3%ADaz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMyAxaDE4YTIgMiAwIDAgMSAyIDJ2MThhMiAyIDAgMCAxLTIgMkgzYTIgMiAwIDAgMS0yLTJWM2EyIDIgMCAwIDEgMi0yWk01IDl2MTBoM1Y5Wk02LjUgNGExLjcgMS43IDAgMSAwIDAgMy40IDEuNyAxLjcgMCAwIDAgMC0zLjRaTTEwIDl2MTBoM3YtNS41YzAtMS41IDEtMi4zIDItMi4zczEuOC44IDEuOCAyLjNWMTloM3YtNmMwLTMtMS43LTQuMi0zLjgtNC4yLTEuNCAwLTIuNC43LTMgMS41VjlaIi8%2BPC9zdmc%2B&logoColor=white"/></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/alexis-flores-d%C3%ADaz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMyAxaDE4YTIgMiAwIDAgMSAyIDJ2MThhMiAyIDAgMCAxLTIgMkgzYTIgMiAwIDAgMS0yLTJWM2EyIDIgMCAwIDEgMi0yWk01IDl2MTBoM1Y5Wk02LjUgNGExLjcgMS43IDAgMSAwIDAgMy40IDEuNyAxLjcgMCAwIDAgMC0zLjRaTTEwIDl2MTBoM3YtNS41YzAtMS41IDEtMi4zIDItMi4zczEuOC44IDEuOCAyLjNWMTloM3YtNmMwLTMtMS43LTQuMi0zLjgtNC4yLTEuNCAwLTIuNC43LTMgMS41VjlaIi8%2BPC9zdmc%2B&logoColor=white"/></a>
   <a href="mailto:floresdiazalexis84@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-
-<h3 align='left' style='text-decoration: underline'> <u> Habilidades </u> </h3>
+<h3 align="left"><u>Habilidades</u></h3>
 
 <p align="left">
   <b>Lenguajes:</b><br>
@@ -53,3 +60,6 @@
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img alt="Warp" src="https://img.shields.io/badge/Warp-%2301A4FF.svg?style=for-the-badge&logo=warp&logoColor=white"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
