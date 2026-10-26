@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38F8FF,100:3851FF&height=120&section=header&text=Alexis%20Flores%20Diaz&fontSize=40&fontColor=fff" alt="Alexis Flores Diaz" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <img alt="Alexis Flores Díaz" src="./assets/header-light.svg" width="100%">
+  </picture>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
