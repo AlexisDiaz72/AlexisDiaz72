@@ -42,6 +42,10 @@
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor-%23000000.svg?&style=for-the-badge&logo=cursor&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+ </p>
+
 <p align="center" >
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
