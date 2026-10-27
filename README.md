@@ -9,7 +9,7 @@
 
 <h3 align="left">Perfil</h3>
 <p align="justify">
-  Desarrollador de software con conocimientos en Python, Java, JavaScript, React, PHP y SQL, y experiencia en servicios en la nube de AWS. Integro herramientas de inteligencia artificial generativa en el desarrollo para optimizar procesos y acelerar la entrega de soluciones. Cuento además con habilidades de modelado y renderizado 3D en Archicad y Twinmotion, lo que me da un perfil versátil entre tecnología y diseño. Trabajo con control de versiones en Git y GitHub, y me caracterizo por el aprendizaje autodidacta y la adaptación rápida a nuevas herramientas.
+  Desarrollador web con conocimientos en HTML, CSS, JavaScript y React, y construyo la lógica del servidor y la gestión de bases de datos con PHP y SQL. Empleo Python en análisis de datos, automatización de procesos y aprendizaje automático, y Java en programación orientada a objetos. Cuento con formación en servicios de nube e inteligencia artificial de AWS, e incorporo herramientas de IA generativa al ciclo de desarrollo para optimizar procesos y reducir los tiempos de entrega. Utilizo Git y GitHub para el control de versiones y la colaboración ordenada en equipo, y mantengo una actualización técnica constante como parte de mi crecimiento profesional.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
