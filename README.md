@@ -16,7 +16,7 @@
 
 <h3 align="left">Contacto</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alexis-flores-d%C3%ADaz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMyAxaDE4YTIgMiAwIDAgMSAyIDJ2MThhMiAyIDAgMCAxLTIgMkgzYTIgMiAwIDAgMS0yLTJWM2EyIDIgMCAwIDEgMi0yWk01IDl2MTBoM1Y5Wk02LjUgNGExLjcgMS43IDAgMSAwIDAgMy40IDEuNyAxLjcgMCAwIDAgMC0zLjRaTTEwIDl2MTBoM3YtNS41YzAtMS41IDEtMi4zIDItMi4zczEuOC44IDEuOCAyLjNWMTloM3YtNmMwLTMtMS43LTQuMi0zLjgtNC4yLTEuNCAwLTIuNC43LTMgMS41VjlaIi8%2BPC9zdmc%2B&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alexis-flores-diaz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMyAxaDE4YTIgMiAwIDAgMSAyIDJ2MThhMiAyIDAgMCAxLTIgMkgzYTIgMiAwIDAgMS0yLTJWM2EyIDIgMCAwIDEgMi0yWk01IDl2MTBoM1Y5Wk02LjUgNGExLjcgMS43IDAgMSAwIDAgMy40IDEuNyAxLjcgMCAwIDAgMC0zLjRaTTEwIDl2MTBoM3YtNS41YzAtMS41IDEtMi4zIDItMi4zczEuOC44IDEuOCAyLjNWMTloM3YtNmMwLTMtMS43LTQuMi0zLjgtNC4yLTEuNCAwLTIuNC43LTMgMS41VjlaIi8%2BPC9zdmc%2B&logoColor=white"/></a>
   <a href="mailto:floresdiazalexis84@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -32,7 +32,7 @@
 
 <p align="left">
   <b>Desarrollo Web:</b><br>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="React" src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
